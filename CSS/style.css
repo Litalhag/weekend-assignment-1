@@ -123,6 +123,16 @@ h3 {
   color: #e8ece2;
 }
 
+.btn-about {
+  color: rgb(221, 228, 234);
+  border: none;
+  cursor: pointer;
+}
+
+.btn-about:hover {
+  color: rgb(94, 203, 156);
+}
+
 .py-1 {
   padding: 30px;
 }
